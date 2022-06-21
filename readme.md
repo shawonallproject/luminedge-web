@@ -1,20 +1,9 @@
 
 ## About:
 
-This is a demo for Multi Auth boilerplate Laravel app (versions 5.6, 5.7, 5.8). 
+This is a website of luminedge
 
-## Features:
 
-- User & Admin clients with their home/dashboard pages.
-- Admins can have different roles (used [Spatie's permission package](https://github.com/spatie/laravel-permission)).
-- AdminLTE customized template for Admin Panel.
-- Manageable Admin URI-segment path.
-
-## Demo Test:
-
-```shell
-$ git clone https://github.com/boolfalse/laravel-multiauth.git
-$ cd laravel-multiauth/
 ```
 Setup a DB and .env
 ```shell
