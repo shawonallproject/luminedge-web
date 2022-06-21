@@ -1,0 +1,260 @@
+.features-one__single-icon img {
+  width: 80px !important;
+}
+
+.mission-container .flex-box-flag {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  gap: 30px;
+}
+
+.mission-container .flex-box-flag div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.mission-container .flex-box-flag div img {
+  max-width: 100%;
+}
+
+.mission-container .flex-box-flag div p {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.mission-container .flex-language {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 35px 0px 10px 0px;
+  gap: 10px;
+  background: var(--thm-yellow);
+  font-size: 14px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.mission-container .flex-language .languages {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
+  font-size: 46px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.partners {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.partners a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -ms-flex-preferred-size: 33.33%;
+      flex-basis: 33.33%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.partners a img {
+  max-width: 100%;
+  height: 50px;
+}
+
+.model-text {
+  color: #fff;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.student-facilities {
+  margin: 0px;
+  padding: 0px;
+}
+
+.student-facilities li {
+  display: block;
+  color: #fff;
+  font-size: 18px;
+  line-height: 26px;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.student-facilities li span {
+  color: var(--thm-yellow);
+  margin-right: 8px;
+}
+
+.mission-container .flex-box-flag {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 30px;
+}
+
+.mission-container .flex-box-flag div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.mission-container .flex-box-flag div img {
+  max-width: 100%;
+}
+
+.mission-container .flex-box-flag div p {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.mission-container .flex-language {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 35px 0px 10px 0px;
+  gap: 10px;
+  background: transparent;
+  font-size: 14px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 100px;
+}
+
+.mission-container .flex-language .languages {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 15px;
+  font-size: 46px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #000;
+}
+
+.mission-container .flex-language .languages span {
+  background: var(--thm-base);
+  color: #fff;
+  font-size: 28px;
+  padding: 2px 16px;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=custom.css.map */
+.mission-container .flex-box-flag {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.mission-container .flex-box-flag div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mission-container .flex-box-flag div img {
+    max-width: 100%;
+}
+.mission-container .flex-box-flag div p {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.mission-container .flex-language {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 35px 0px 10px 0px;
+    gap: 10px;
+    background: transparent;
+    font-size: 14px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 100px;
+}
+.mission-container .flex-language .languages {
+    display: flex;
+    gap: 15px;
+    margin: 5px;
+    font-size: 46px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #000;
+}
+.mission-container .flex-language .languages span {
+    background: var(--thm-base);
+    color: #fff;
+    font-size: 28px;
+    padding: 2px 16px;
+    border-radius: 5px;
+}
+
